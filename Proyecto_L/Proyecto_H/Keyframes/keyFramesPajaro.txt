@@ -1,0 +1,146 @@
+0 mov_x 0.0
+0 mov_y 0.0
+0 mov_z 0.0
+0 giro_x 0.0
+0 giro_y 0.0
+0 giro_z 0.0
+
+1 mov_x 0.0
+1 mov_z -6.0
+1 mov_y 0.49
+1 giro_x 0.0
+1 giro_y 0.0
+1 giro_z -18.0
+
+2 mov_x 0.0
+2 mov_z -11.76
+2 mov_y 1.91
+2 giro_x 0.0
+2 giro_y 0.0
+2 giro_z -36.0
+
+3 mov_x 0.0
+3 mov_z -16.18
+3 mov_y 4.12
+3 giro_x 0.0
+3 giro_y 0.0
+3 giro_z -54.0
+
+4 mov_x 0.0
+4 mov_z -19.02
+4 mov_y 6.91
+4 giro_x 0.0
+4 giro_y 0.0
+4 giro_z -72.0
+
+5 mov_x 0.0
+5 mov_z -20.0
+5 mov_y 10.0
+5 giro_x 0.0
+5 giro_y 0.0
+5 giro_z -90.0
+
+6 mov_x 0.0
+6 mov_z -19.02
+6 mov_y 13.09
+6 giro_x 0.0
+6 giro_y 0.0
+6 giro_z -108.0
+
+7 mov_x 0.0
+7 mov_z -16.18
+7 mov_y 15.88
+7 giro_x 0.0
+7 giro_y 0.0
+7 giro_z -126.0
+
+8 mov_x 0.0
+8 mov_z -11.76
+8 mov_y 18.09
+8 giro_x 0.0
+8 giro_y 0.0
+8 giro_z -144.0
+
+9 mov_x 0.0
+9 mov_z -6.18
+9 mov_y 19.51
+9 giro_x 0.0
+9 giro_y 0.0
+9 giro_z -162.0
+
+10 mov_x 0.0
+10 mov_z -0.0
+10 mov_y 20.0
+10 giro_x 0.0
+10 giro_y 0.0
+10 giro_z -180.0
+
+11 mov_x 0.0
+11 mov_z 6.18
+11 mov_y 19.51
+11 giro_x 0.0
+11 giro_y 0.0
+11 giro_z -198.0
+
+12 mov_x 0.0
+12 mov_z 11.76
+12 mov_y 18.09
+12 giro_x 0.0
+12 giro_y 0.0
+12 giro_z -216.0
+
+13 mov_x 0.0
+13 mov_z 16.18
+13 mov_y 15.88
+13 giro_x 0.0
+13 giro_y 0.0
+13 giro_z -234.0
+
+14 mov_x 0.0
+14 mov_z 19.02
+14 mov_y 13.09
+14 giro_x 0.0
+14 giro_y 0.0
+14 giro_z -252.0
+
+15 mov_x 0.0
+15 mov_z 20.0
+15 mov_y 10.0
+15 giro_x 0.0
+15 giro_y 0.0
+15 giro_z -270.0
+
+16 mov_x 0.0
+16 mov_z 19.02
+16 mov_y 6.91
+16 giro_x 0.0
+16 giro_y 0.0
+16 giro_z -288.0
+
+17 mov_x 0.0
+17 mov_z 16.18
+17 mov_y 4.12
+17 giro_x 0.0
+17 giro_y 0.0
+17 giro_z -306.0
+
+18 mov_x 0.0
+18 mov_z 11.76
+18 mov_y 1.91
+18 giro_x 0.0
+18 giro_y 0.0
+18 giro_z -324.0
+
+19 mov_x 0.0
+19 mov_z 6.18
+19 mov_y 0.49
+19 giro_x 0.0
+19 giro_y 0.0
+19 giro_z -342.0
+
+20 mov_x 0.0
+20 mov_z 0.0
+20 mov_y 0.0
+20 giro_x 0.0
+20 giro_y 0.0
+20 giro_z -360.0

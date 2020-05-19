@@ -1,0 +1,46 @@
+# Blender MTL File: 'alameda_2.blend'
+# Material Count: 4
+
+newmtl Nuovo_1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd H:\\lab_computacion_grafica\\proyectos\\Proyecto_L\\Proyecto_alameda\\Textures\\blanco.png
+
+newmtl _10778_Toilet_V201___Default
+Ns 50.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.270000 0.270000 0.270000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\\lab_computacion_grafica\\proyectos\\Proyecto_L\\Proyecto_alameda\\Textures\\Toilet.jpg
+
+newmtl negro.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd H:\\lab_computacion_grafica\\proyectos\\Proyecto_L\\Proyecto_alameda\\Textures\\negro.tga
+
+newmtl verde_pistache.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd H:\\lab_computacion_grafica\\proyectos\\Proyecto_L\\Proyecto_alameda\\Textures\\verde_menta.tga
