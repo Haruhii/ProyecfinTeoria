@@ -1,8 +1,9 @@
 /*
 Semestre 2020-2
-Proyecto final
+Proyecto final teoria
 Integrantes:
 Suárez Hernández Sara Amalinali
+Grupo: 04
 */
 //para cargar imagen
 #define STB_IMAGE_IMPLEMENTATION
