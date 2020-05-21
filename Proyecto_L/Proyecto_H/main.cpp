@@ -103,6 +103,7 @@ Model *pelota;
 Model *juego;
 Model *banca;
 Model *pasamanos;
+Model *bear;
 
 
 
@@ -892,6 +893,11 @@ void renderScene(Shader *shader) {
 	pelota->RenderModel();
 
 
+
+	
+
+
+
 	model = glm::mat4(1.0);
 	model = glm::translate(model, glm::vec3(-15.0f, 2.0, -3.0f));
 	model = glm::rotate(model, glm::radians(90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
@@ -1092,6 +1098,10 @@ int main() {
 
 	pasamanos = new Model();
 	pasamanos->LoadModel("Models/pasamanos.obj");
+
+
+	bear = new Model();
+	bear->LoadModel("Models/Bear.obj");
 
 
 	//base= new Model();
@@ -1337,7 +1347,7 @@ int main() {
 			skybox.DrawSkybox(camera.calculateViewMatrix(), projection);
 		}
 		else {
-			mainLight.setIntensity(0.0, 0.0);
+			mainLight.setIntensity(0.3f, 0.3f);
 			skybox_noche.DrawSkybox(camera.calculateViewMatrix(), projection);
 		}
 
