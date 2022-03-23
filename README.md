@@ -2,7 +2,7 @@
 
 ## Alumnos
 
-* Suárez Hernández Sara Amalinali
+* 
 
 ###  [Manual de usuario](manual_usuario.md)
 
